@@ -1,5 +1,5 @@
 # Projects
-### 01. <a href="https://github.com/kiamboon/Projects/blob/main/01.%20Face%20Recognition%20for%20Iris%20Flowers.ipynb">"Face Recognition" for Iris Flowers</a>
+### 01. <a href="https://github.com/kiamboon/Projects/blob/main/01.%20Face%20Recognition%20for%20Iris%20Flowers.ipynb">"Face Recognition" for Iris Flowers</a><br>
 Project descriptionAn EDA with classification task like a "face recognition" to the Iris flowers with Machine Learning among three classes/types - Setosa, Versicolor and Virginica based on theirs measurements of sepals and petals' length and width.
 
 ### 02. <a href="https://github.com/kiamboon/Projects/blob/main/02.%20Predicting%20the%20Survivors%20of%20Titanic.ipynb">Predicting the Survivors of Titanic</a>
