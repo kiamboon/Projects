@@ -13,3 +13,6 @@ A methodology for forecasting the direction of prices through the study of past 
 
 ### 05. <a href="https://github.com/kiamboon/Projects/blob/main/05.%20Taiwanese%20Real%20Estate%20Market%20Valuation.ipynb">Taiwanese Real Estate Market Valuation</a>
 EDA + Machine Learning with Linear Regression and TensorFlow for Taiwanese real estate market.
+
+### 06. <a href="Pending.ipynb">Word Cloud for Ugly Duckling</a>
+A mini project using BeautifulSoup and Word Cloud
