@@ -1,7 +1,7 @@
 # Projects:-
 
 ### 06. <a href="https://github.com/kiamboon/Projects/blob/main/06.%20The%20Ugly%20Duckling.ipynb">The Ugly Duckling</a>
-A mini project using BeautifulSoup and Word Cloud
+A mini project using web scraping (BeautifulSoup) and Word Cloud.
 
 ### 05. <a href="https://github.com/kiamboon/Projects/blob/main/05.%20Taiwanese%20Real%20Estate%20Market%20Valuation.ipynb">Taiwanese Real Estate Market Valuation</a>
 EDA + Machine Learning with Linear Regression and TensorFlow for Taiwanese real estate market.
