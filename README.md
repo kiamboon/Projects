@@ -1,5 +1,8 @@
 # Projects:-
 
+### 07. <a href="http://drive.google.com/file/d/1a5cwIdX9eVdo2a8m8ev2GOyBiZPO6Xj3/preview">IBM Data Analyst Capstone Project: Trend for Emerging Technology & Skills</a>
+An individual Capstone project - One of the courses for IBM Data Analyst Professional Certificate
+
 ### 06. <a href="https://github.com/kiamboon/Projects/blob/main/06.%20The%20Ugly%20Duckling.ipynb">The Ugly Duckling</a>
 A mini project using web scraping (BeautifulSoup) and Word Cloud.
 
